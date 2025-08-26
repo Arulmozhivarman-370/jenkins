@@ -1,2 +1,4 @@
 echo "hi"
 echo "hello"
+echo "bye"
+hostname
